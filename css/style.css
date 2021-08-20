@@ -1,0 +1,16 @@
+h1{
+    color: blue;
+}
+
+.precio{
+    color: red;
+}
+
+#primer_caracteristica{
+    color: green;
+    font-size: x-large;
+}
+
+#primer_caracteristica, .precio{
+    background-color: yellow;
+}
