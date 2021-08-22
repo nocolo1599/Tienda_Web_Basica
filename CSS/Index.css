@@ -6,4 +6,38 @@ a:link
     text-decoration: none;
 }
 
+.navbar{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+}
+
+.titulo_ppal{
+    text-align: center;
+    justify-content: space-evenly;
+}
+
+.titulos_secundarios {
+    text-align: center;
+}
+
+.titulos_terciarios {
+    text-align: left;
+}
+
+.footer{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+}
+
+
 
