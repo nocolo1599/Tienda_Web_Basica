@@ -3,6 +3,10 @@ a:link
     text-decoration: none;
 }
 
+body{
+    background-color:blanchedalmond;
+}
+
 .navbar
 {
     position: relative;

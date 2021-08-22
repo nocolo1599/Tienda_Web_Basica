@@ -25,27 +25,42 @@ padding-bottom: .5rem
 }
 
 .table tr h4 {
-    background-color:red ;
+    text-align: center;
+    background-color:lightsteelblue ;
     margin: 2px;
     padding: 3px;
 }
 
 .table thead{
+    text-align: center;
     background-color:beige;
+    text-size-adjust: .2rem;
 
+}
+.table{
+    background-color:grey;
+    padding: 2px;
 }
 
 th h2{
+    
     background-color:darkgray;
 }
 
-h3{
+h3, ul {
+    text-decoration: dashed;
+    text-align: justify;
     background-color:steelblue;
+    color: whitesmoke;
     padding: 3px;
 }
 
 p{
+    text-align: center;
     text-align: justify;
+    background-color:steelblue;
+    color: whitesmoke;
+    padding: 3px;
 }
 
 .textos{
@@ -69,9 +84,13 @@ text-align:justify;
 
 }
 
+.Imagenes_producto{
+    text-align: center;
+}
+
 .footer
-{       
-    position: relative;
+{   
+    text-align: justify;
     display: flex;
     flex-wrap: wrap;
     align-items:center;
