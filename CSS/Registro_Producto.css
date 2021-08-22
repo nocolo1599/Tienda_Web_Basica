@@ -23,9 +23,43 @@ a:link
 .titulos_secundarios 
 {
     text-align: center;
+    margin-top: 10px;
+    padding-top: 3px;
+    margin-bottom: 30px;
+}
+form{
+    margin: 0 auto;
+    width: 400px;
+
+    padding: 2em;
+    border: 1px solid #CCC;
+    border-radius: 1em;
+
 }
 
-.footer
+label {
+    text-align: justify center;
+    margin-top: 10px;
+    padding-top: 3px;
+    
+}
+
+input{
+    width: 300px;
+    box-sizing: border-box;
+    margin-top: 10px;
+    padding-top: 3px;
+}
+
+
+
+button {
+    margin-top: 10px;
+    padding-top: 3px;
+    
+}
+
+.footer 
 {
     position: relative;
     display: flex;
