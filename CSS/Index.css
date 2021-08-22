@@ -24,6 +24,30 @@ padding-bottom: .5rem
 
 }
 
+.table tr h4 {
+    background-color:red ;
+    margin: 2px;
+    padding: 3px;
+}
+
+.table thead{
+    background-color:beige;
+
+}
+
+th h2{
+    background-color:darkgray;
+}
+
+h3{
+    background-color:steelblue;
+    padding: 3px;
+}
+
+p{
+    text-align: justify;
+}
+
 .textos{
 text-align:justify;
 }
@@ -46,7 +70,7 @@ text-align:justify;
 }
 
 .footer
-{
+{       
     position: relative;
     display: flex;
     flex-wrap: wrap;
