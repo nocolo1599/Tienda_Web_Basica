@@ -12,7 +12,12 @@ a:link
     justify-content: space-around;
     padding-top: .5rem;
     padding-bottom: .5rem;
-    
+}
+
+.container{
+padding-top: .5rem;
+padding-bottom: .5rem
+
 }
 
 .titulo_ppal
