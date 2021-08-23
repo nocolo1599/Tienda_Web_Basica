@@ -31,6 +31,7 @@ body{
     padding-top: 3px;
     margin-bottom: 30px;
 }
+
 form{
     margin: 0 auto;
     width: 400px;
@@ -39,8 +40,6 @@ form{
     border: 1px solid #CCC;
     border-radius: 1em;
     box-shadow:  gray 4px 4px 0px 0px ;
-    
-
 }
 
 
@@ -48,7 +47,6 @@ label {
     text-align: justify center;
     margin-top: 10px;
     padding-top: 3px;
-    
 }
 
 input{
@@ -56,7 +54,6 @@ input{
     box-sizing: border-box;
     margin-top: 10px;
     padding-top: 3px;
-    
 }
 
 
@@ -65,12 +62,10 @@ button {
     margin-top: 10px;
     padding-top: 3px;
     background-color: lightgoldenrodyellow;
-    
 }
 
 .footer
 {
-
     position: relative;
     display: flex;
     flex-wrap: wrap;
@@ -78,5 +73,4 @@ button {
     justify-content: space-evenly;
     padding-top: .5rem;
     padding-bottom: .5rem;
-    
 }
