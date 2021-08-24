@@ -31,6 +31,11 @@ body{
     padding-top: 3px;
     margin-bottom: 30px;
 }
+.Terminos{
+    text-align: center;
+    padding: 3px;
+    margin-top:5px;
+}
 
 form{
     margin: 0 auto;
@@ -39,7 +44,7 @@ form{
     padding: 2em;
     border: 1px solid #CCC;
     border-radius: 1em;
-    box-shadow:  gray 4px 4px 0px 0px ;
+    box-shadow: darkgray 0px 3px 4px 2px;
 }
 
 
@@ -59,9 +64,14 @@ input{
 
 
 button {
+    text-align: center;
+    width: 300px;
     margin-top: 10px;
     padding-top: 3px;
     background-color: lightgoldenrodyellow;
+    border-radius: 7px;
+    border-color:bisque;
+    
 }
 
 .footer
